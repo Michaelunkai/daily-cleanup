@@ -1,0 +1,6 @@
+# Runtime output
+logs/
+
+# Windows cruft
+Thumbs.db
+desktop.ini
